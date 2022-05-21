@@ -1,0 +1,11 @@
+{
+  "//_comment": "playStore ,google, official, IOS_enterprise",
+  "//testing": "http://35.240.204.1/Maruay98/Android/cdnSite/",
+  "//production": "https://patch.fhm99.com/Maruay98/Android/cdnSite/",
+  "//REGION_CHANNEL": "TH, MM, VN, AGENT",
+  "PREPATCH_ENABLE": 1,
+  "MARKETING_CHANNEL": "playStore",
+  "CDN_SITE": "http://35.240.204.1/FHM99/Android/cdnSite/",
+  "CHECKVERSION_SITE": "http://35.240.204.1/FHM99/Android/",
+  "REGION_CHANNEL": "TH"
+}
